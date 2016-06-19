@@ -1,0 +1,31 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+=======
+=======
+>>>>>>> 3cadf283125127f92e682ebd7939cb0a6c819d43
+.gradle
+build/
+
+# Ignore Gradle GUI config
+gradle-app.setting
+
+# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
+!gradle-wrapper.jar
+
+# Cache of project
+.gradletasknamecache
+
+# # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
+# gradle/wrapper/gradle-wrapper.properties
+<<<<<<< HEAD
+>>>>>>> 3cadf283125127f92e682ebd7939cb0a6c819d43
+=======
+>>>>>>> 3cadf283125127f92e682ebd7939cb0a6c819d43
